@@ -1,0 +1,37 @@
+.colors {
+    margin: 0;
+    border: 2px solid black;
+}
+
+
+.color-items {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+
+
+.color-pelette {
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    border: 1px solid grey;
+    background-color: red;
+}
+
+.shades {
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    background-color: green;
+    border: 1px solid black;    
+}
+
+.copy-color {
+    position: relative;
+    display: flex;
+    background-color: blue;
+    border: 1px solid black;  
+
+}
