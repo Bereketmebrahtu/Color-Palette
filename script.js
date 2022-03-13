@@ -1,5 +1,6 @@
-const Btn = document.querySelector('.Btn')
+const Btn = document.querySelector('button')
 const colorEl = document.querySelector('#color')
+
 
 
 const changeBackground = () => {
